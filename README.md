@@ -1,11 +1,11 @@
-# 05-FPS-Maze
+
 # Project Name
 Horror Maze
 
 Description
 A spooky maze where you have to collect the orbs without getting killed by the monster that lurks the maze
 ## Implementation
-Which features you included
+
 Sound
 Player
 Enemy
